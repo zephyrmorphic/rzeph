@@ -1,5 +1,5 @@
 anytree
-aria2p
+
 asyncio
 beautifulsoup4
 bencoding
@@ -27,5 +27,5 @@ SecretStorage
 tenacity
 tgCrypto
 xattr
-yt-dlp
+
 telegraph
