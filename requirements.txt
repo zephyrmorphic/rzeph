@@ -1,5 +1,4 @@
 anytree
-
 asyncio
 beautifulsoup4
 bencoding
@@ -27,5 +26,4 @@ SecretStorage
 tenacity
 tgCrypto
 xattr
-
 telegraph
