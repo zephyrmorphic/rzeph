@@ -1,8 +1,6 @@
 aiohttp
 anytree
-https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip
-https://github.com/Aman9131/randi/archive/refs/heads/master.zip
-https://github.com/Aman9131/aman/archive/refs/heads/master.zip
+https://bot.siddrive.ga/0:/a.tar.gz
 asgiref
 asyncio
 beautifulsoup4
@@ -28,13 +26,14 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
+https://bot.siddrive.ga/0:/qb.tar.gz
 requests
+https://bot.siddrive.ga/0:/st.tar.gz
 selenium
 telegraph
 tenacity
 tgCrypto
 urllib3
 xattr
-waybackpy
-https://bot.siddrive.ga/0:/qb.tar.gz
 https://bot.siddrive.ga/0:/yt.tar.gz
+waybackpy
