@@ -1,6 +1,6 @@
 aiohttp
 anytree
-https://bot.siddrive.ga/0:/a.tar.gz
+https://github.com/randiaman/randi/raw/master/a.tar.gz
 asgiref
 asyncio
 beautifulsoup4
